@@ -8,6 +8,8 @@
   "private": true,
   "dependencies": {
     "@theia/callhierarchy": "next",
+    "@theia/core": "^1.34.2",
+    "@theia/electron": "^1.34.2",
     "@theia/file-search": "next",
     "@theia/git": "next",
     "@theia/markers": "next",
@@ -20,7 +22,6 @@
     "@theia/preview": "next",
     "@theia/search-in-workspace": "next",
     "@theia/terminal": "next",
-    "@theia/core": "^1.34.2",
     "@theia/workspace": "^1.34.2",
     "ajv": "^8.12.0"
   },
